@@ -1,1 +1,1 @@
-# LAB-Cloud-Based-SIEM-Web-Application-Firewall-and-Honeypot-Configuration
+# LAB: Cloud-Based SIEM, WebApplicationFirewall, and Honeypot Configuration
